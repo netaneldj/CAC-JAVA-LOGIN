@@ -47,6 +47,8 @@
                     <% uname = request.getParameter("uname");
 
                     pass = request.getParameter("pass"); %>
+                    
+                    <h2>Bienvenido al Sistema</h2>
 
                     <P><B>Los datos ingresados son</B>:
 
